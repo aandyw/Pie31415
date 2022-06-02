@@ -1,4 +1,4 @@
-### Hi there. I exist. 👋
+### Hi there. <placeholder>
 
 <!--
 **Pie31415/Pie31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
